@@ -1,0 +1,19 @@
+
+/* color palette https://colorhunt.co/palette/206929 */
+
+body {
+  background-color: #ffefa0;
+}
+
+hr 1 {
+  border-style: none;
+  border-color: green;
+  height: 4px;
+  width: 80%;
+  background-color: green;
+  justify-content: center;
+}
+
+h3 {
+  color: fuchsia;
+}

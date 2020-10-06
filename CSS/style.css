@@ -1,0 +1,25 @@
+
+/* color palette https://colorhunt.co/palette/206929 */
+
+body {
+  background-color: #ffefa0;
+}
+
+hr {
+  border-style: dotted;
+  border-width: thick;
+  border-left: none;
+  border-bottom: none;
+  border-right: none;
+  border-color: red;
+  height: 0px;
+  width: 50%;
+  background-color: whitesmoke;
+  justify-content: center;
+}
+
+p.mix {border-style: dashed;}
+
+h3 {
+  color: fuchsia;
+}
